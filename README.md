@@ -1,4 +1,4 @@
-# Tic Tac Tow JS
+# Tic Tac Toe JS
 
 ## Issues
 
