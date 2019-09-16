@@ -1,4 +1,4 @@
-body{
+body{ 
 font-size:12pt;
 margin-left:auto;
 margin-right:auto;
@@ -7,7 +7,7 @@ width:33em;
 background-color: aqua;
 }
 
-.square{
+.quadr{
 float:left;
 font-size:8em;
 height:1.25em;
@@ -15,12 +15,12 @@ text-align:center;
 width:1.25em;
 }
 
-.border1{
+.borda1{
 border-left:solid;
 border-right:solid;
 }
 
-.border2{
+.borda2{
 border-bottom:solid;
 border-top:solid;
 }
