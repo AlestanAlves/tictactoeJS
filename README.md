@@ -2,7 +2,7 @@
 
 ## Issues
 
-- [ ] Estrutura de fundo
+- [x] Estrutura de fundo
 - [ ] Definir X e O
 - [ ] Grid esqueleto
 - [ ] Definir chances de vencer
