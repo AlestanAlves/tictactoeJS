@@ -4,7 +4,7 @@
 
 - [x] Estrutura de fundo
 - [ ] Definir X e O
-- [ ] Grid esqueleto
+- [x] Grid esqueleto
 - [ ] Definir chances de vencer
 - [ ] Definir jogadores
-- [ ] 
+- [ ] Definir tempo de jogo
