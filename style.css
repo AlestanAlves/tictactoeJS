@@ -4,7 +4,17 @@ margin-left:auto;
 margin-right:auto;
 padding-top:5em;
 width:33em;
-background-color: aqua;
+background-color: rgb(0, 0, 0);
+display: flex;
+justify-content: center;
+
+}
+
+h1{
+    text-align: center;
+    height: 100px;
+    color: white;
+
 }
 
 .quadr{
@@ -13,14 +23,26 @@ font-size:8em;
 height:1.25em;
 text-align:center;
 width:1.25em;
+display: flex;
+justify-content: center;
+}
+
+.quadr:hover{
+    transition: .9s;
+    filter: blur(70%);
+    background-color: rgb(39, 39, 39);
+    opacity: 10%;
+    filter: opacity(20%)
 }
 
 .borda1{
 border-left:solid;
 border-right:solid;
+color: white;
 }
 
 .borda2{
 border-bottom:solid;
 border-top:solid;
+color: white;
 }

@@ -3,5 +3,4 @@
 
 let jogador1 = 'X'
 let jogador2 = 'O'
-
-let 
+let click = 0 
