@@ -56,7 +56,7 @@ function Board() {
       if (isWinningCombo) {
           winner = true;
           winningCombo.forEach((index) => {
-            positions[index].className += ' winner';
+            positions[index].className += 'winner';
           })
       }
     });
