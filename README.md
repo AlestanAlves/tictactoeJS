@@ -7,7 +7,7 @@
 - [x] Grid esqueleto
 - [x] Definir chances de vencer
 - [x] Definir jogadores
-- [x] Definir tempo de jogo
+- [x] Fazer desing CSS
 
 ## Link Live Share
 
