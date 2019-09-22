@@ -3,11 +3,11 @@
 ## Issues
 
 - [x] Estrutura de fundo
-- [ ] Definir X e O
+- [x] Definir X e O
 - [x] Grid esqueleto
-- [ ] Definir chances de vencer
-- [ ] Definir jogadores
-- [ ] Definir tempo de jogo
+- [x] Definir chances de vencer
+- [x] Definir jogadores
+- [x] Fazer design CSS
 
 ## Link Live Share
 
